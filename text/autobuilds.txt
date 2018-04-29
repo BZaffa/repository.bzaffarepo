@@ -1,6 +1,6 @@
 id="plugin.program.bodhikodi" 
 version="1.2" 
-zip="https://github.com/BZaffa/repository.bzaffarepo/raw/master/wizard/plugin.program.bzaffa.zip" 
+zip="http://bzaffa.000webhostapp.com/.b/wizard/plugin.program.bzaffa.zip" 
 
 name="The B-Zaffa Wiz"
 version="2.2"
